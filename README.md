@@ -1,5 +1,5 @@
 # FPV-Droneframe-CAD
-+3.5-Inch FPV Drone openScad model designed by me made on openScad+
++3.5-Inch FPV Drone openScad model designed by me+
 
 
 // Parametric small FPV drone frame (OpenSCAD)
